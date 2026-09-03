@@ -1,16 +1,72 @@
-## Hi there 👋
+# Bonjour, moi c'est Joseph 👋
 
-<!--
-**josephfofana/josephfofana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en BTS SIO — option SISR  
+🖥️ Systèmes & Réseaux | Infrastructure | Cybersécurité
 
-Here are some ideas to get you started:
+Je développe mes compétences dans l'administration des systèmes et réseaux
+à travers mes travaux pratiques, mon laboratoire d'infrastructure virtualisé
+et différents projets personnels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+
+### Systèmes & infrastructure
+- Windows Server
+- Active Directory
+- DNS
+- DHCP
+- Linux — bases (Debian / Ubuntu)
+- VirtualBox
+
+### Réseaux
+- TCP/IP
+- IPv4
+- Subnetting
+- Routage
+- Cisco Packet Tracer
+- Wireshark — découverte
+
+### Programmation & automatisation
+- Python — bases
+- Bash — bases
+- PowerShell — en apprentissage
+
+### Outils
+- Git — en apprentissage
+
+## 🚀 Projet principal
+
+### LAB-Infrastructure-SISR — UniService
+
+Laboratoire d'infrastructure informatique virtualisé visant à reproduire
+l'environnement réseau et systèmes d'une PME.
+
+Le projet comprend notamment :
+
+- Windows Server
+- Active Directory
+- DNS
+- DHCP
+- Linux
+- Réseau
+- Gestion des utilisateurs et groupes
+- Virtualisation
+- Documentation technique
+
+➡️ Projet actuellement en développement.
+
+## 🎯 Objectif professionnel
+
+Évoluer vers l'administration puis l'ingénierie systèmes, réseaux et
+infrastructure, avec une forte culture cybersécurité.
+
+## 📚 Actuellement
+
+- BTS SIO SISR
+- Administration Windows Server / Active Directory
+- Réseaux
+- Linux
+- PowerShell
+- Python
+- Virtualisation
+- Cybersécurité
+- Git
